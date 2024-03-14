@@ -34,6 +34,6 @@ predictions = loaded_model.predict(
 
 ```
 ## References
-- Mitchell A. Gordon, 2019, [All The Ways You Can Compress BERT](https://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
+- Mitchell A. Gordon, 2019, [台股期現貨價差交易策略之獲利分析](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22101NCCU5321043%22.&searchmode=basic)
 - Stickland, et al., ICML’19
 - Houlsby, et al., ICML’19
